@@ -1,0 +1,18 @@
+h1 {
+	color: #fff;
+}
+
+body {
+	color: #fff; 
+	background-color: tomato; 
+	text-align: center; 
+}
+
+body p {
+	font-family: 'Raleway'; 
+}
+
+button.link {
+	background: none;
+	border: none;
+}
